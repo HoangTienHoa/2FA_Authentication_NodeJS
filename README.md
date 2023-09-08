@@ -31,3 +31,4 @@ Using Google Authenticator to show OTP.</br>
 
 # Ref
     https://www.npmjs.com/package/speakeasy
+    https://github.com/hackster254/Speakeasy_2FactorAuth/tree/master
