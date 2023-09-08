@@ -1,7 +1,7 @@
 # 2FA_Authentication_NodeJS
-A login feature using Two Factor Authentication.
-Using Speakeasy for generating one time password - OTP.
-Using Google Authenticator to show OTP.
+A login feature using Two Factor Authentication. </br>
+Using Speakeasy for generating one time password - OTP.</br>
+Using Google Authenticator to show OTP.</br>
 
 # Run
     npm i
