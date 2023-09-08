@@ -1,0 +1,30 @@
+{
+  "name": "2FA_Authentication_NodeJS",
+  "version": "1.0.0",
+  "description": "Generate OTP and verify by Google Authenticator application in NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoangTienHoa/2FA_Authentication_NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HoangTienHoa/2FA_Authentication_NodeJS/issues"
+  },
+  "homepage": "https://github.com/HoangTienHoa/2FA_Authentication_NodeJS#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "node-json-db": "^2.2.0",
+    "qrcode": "^1.5.3",
+    "speakeasy": "^2.0.0",
+    "uuid": "^9.0.0"
+  }
+}
